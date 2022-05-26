@@ -8,6 +8,8 @@ Code: WQD7004
 
 Repo type: Lab test questions and answers
 
+Programming language: R
+
 ## Disclaimer
 - This is just for reference only. 
 - Use this at your own risk. The owner of this repository is not liable for any losses that might incur when you use this repository.
